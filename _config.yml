@@ -1,0 +1,28 @@
+name: Tomas Enhager
+favicon: null
+layout_spectrum: 0.668302760226652
+typography_spectrum: 0.7663793605752289
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11432789941318333
+  lightness: 0.16200023074634373
+  saturation: 0.025903243338689208
+  rhythmicContrast: 0.2092496594414115
+purpose: []
