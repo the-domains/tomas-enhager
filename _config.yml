@@ -1,6 +1,6 @@
 name: Tomas Enhager
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.56761
 title: "Utbildare |\_Föreläsare |\_Livscoach"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d0d0d0'
-    - '#959595'
-    - '#fdfdfd'
-    - '#382b22'
-    - '#5e554e'
+    - '#b4c5d5'
+    - '#251c13'
+    - '#324357'
+    - '#7c5d00'
+    - '#efe6d3'
   brandStrength: 0.5
   lightness: 0.625
-  saturation: 0.3125
+  saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
