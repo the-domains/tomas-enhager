@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Utbildare | Föreläsare | Livscoach]]></title>
-        <description><![CDATA[Utbildare | Föreläsare | Livscoach]]></description>
+        <title><![CDATA[Tomas Enhager | Utbildare - Föreläsare - Livscoach]]></title>
+        <description><![CDATA[Tomas Enhager | Utbildare - Föreläsare - Livscoach]]></description>
         <link>https://thegrid.ai/tomas-enhager/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 21:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 15:52:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomas-enhager/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tomas Enhager coachar, föreläser och håller kurser.]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/tomas-enhager/tomas-enhager/index.html</link>
             <guid isPermaLink="false">05aaca9a-8e84-4715-b543-93a74a6b42a5</guid>
             <pubDate>Wed, 09 Dec 2015 20:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tomas Enhager]]></title>
-            <description><![CDATA[<article><h1>Tomas Enhager</h1><p>Utbildare Föreläsare Livscoach</p></article>]]></description>
-            <link>https://thegrid.ai/tomas-enhager/tomas-enhager/index.html</link>
-            <guid isPermaLink="false">fedc6c54-41cd-4aef-9217-b03ad725d986</guid>
-            <pubDate>Wed, 09 Dec 2015 20:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
